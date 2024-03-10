@@ -108,7 +108,7 @@ const widgetsData = {
         },
         {
             name: "calendarWidget",
-            displayName: "Music Player",
+            displayName: "Calendar",
             clickthrough: true,
             sizes: {
                 small: {
